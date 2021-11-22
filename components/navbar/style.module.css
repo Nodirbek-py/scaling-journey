@@ -1,0 +1,7 @@
+.minasa {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    background: #09fc3f;
+}
